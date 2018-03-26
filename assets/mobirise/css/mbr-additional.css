@@ -93,8 +93,8 @@ h6,
   background-color: #f28281 !important;
 }
 .btn-primary {
-  background-color: #00a885;
-  border-color: #00a885;
+  background-color: #D4213D;
+  border-color: #D4213D;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -430,7 +430,7 @@ h6,
   color: #fff;
 }
 #msg-box8-3 .mbr-section-title {
-  color: #41a85f;
+  color: #000;
   font-size: 60px;
 }
 #header3-5 .mbr-section-title,
@@ -438,14 +438,14 @@ h6,
   text-align: center;
 }
 #header3-5 .mbr-section-title {
-  color: #41a85f;
+  color: #000;
   font-size: 60px;
 }
 #features2-4 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+  background-color: #fff;
 }
 #form1-6 .form-control-label {
-  color: #41a85f;
+  color: #D4213D;
 }
 #header3-8 .mbr-section-title,
 #header3-8 .mbr-section-subtitle {
@@ -458,8 +458,8 @@ h6,
   color: #bcbcbc;
 }
 #features7-7 .iconbox {
-  background-color: #00a885;
-  border-color: #00a885;
+  background-color: #D4213D;
+  border-color: #D4213D;
 }
 #features7-7 P {
   font-size: 22px;
@@ -502,7 +502,7 @@ h6,
 #menu-1 .dropdown-item:hover,
 #menu-1 .link:focus,
 #menu-1 .dropdown-item:focus {
-  color: #00a885;
+  color: #D4213D;
 }
 #menu-1 .link[aria-expanded="true"],
 #menu-1 .dropdown-menu {
@@ -512,24 +512,27 @@ h6,
 #menu-1 .nav-dropdown-sm .link:hover,
 #menu-1 .nav-dropdown-sm .dropdown-item:focus,
 #menu-1 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #D4213D!important;
 }
 #menu-1 .navbar,
 #menu-1 .nav-dropdown-sm,
 #menu-1 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-1 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #a5a2a49e;
 }
 #menu-1 .bg-color.transparent .link {
   color: #ffffff;
   transition: none;
+}
+#menu-1:hover .bg-color.transparent:hover .link:hover {
+  color: #D4213D;
 }
 #menu-1 .bg-color.transparent.opened .link {
   transition: color 0.2s ease-in-out;
 }
 #menu-1 .bg-color.transparent.opened .link:hover,
 #menu-1 .bg-color.transparent.opened .link:focus {
-  color: #00a885;
+  color: #D4213D;
 }
 #menu-1 .link[aria-expanded="true"],
 #menu-1 .dropdown-item[aria-expanded="true"] {
@@ -539,8 +542,8 @@ h6,
   color: #bcbcbc;
 }
 #features4-g .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
+  background-color: #D4213D;
+  border-color: #D4213D;
 }
 #social-buttons4-j .mbr-section-title,
 #social-buttons4-j .btn-social {

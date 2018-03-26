@@ -1258,6 +1258,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   .mbr-cards .card-text + .card-btn {
     padding-top: 1.375rem; }
 .mbr-cards .card-title {
+  color: #000;
   margin-bottom: 0;
   font-size: 1.25rem;
   font-weight: bold;
@@ -2054,7 +2055,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   text-align: center;
   display: block;
   margin-top: 0.2em;
-  color: #F1C050; }
+  color: #D4213D; }
 
 /* features4 */
 .mbr-iconfont.mbr-iconfont-features4 {
@@ -2062,7 +2063,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   text-decoration: none;
   text-align: center;
   display: block;
-  color: #000; }
+  color: #fff !important; }
 
 .mbr-iconfont-features7 {
   font-size: 50px;
