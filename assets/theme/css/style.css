@@ -669,6 +669,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   padding-bottom: 40px; }
 
 .mbr-section-md-padding {
+  background: #D4213D;
   padding-top: 90px;
   padding-bottom: 90px; }
 
@@ -1581,7 +1582,9 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-footer {
   color: #fff;
   padding-left: 1.25rem;
-  padding-right: 1.25rem; }
+  padding-right: 1.25rem; 
+  background: #D4213D;
+}
   @media (min-width: 1280px) {
     .mbr-footer {
       padding-left: 6.25rem;
@@ -1634,7 +1637,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-footer-content h1, .mbr-footer-content h2, .mbr-footer-content h3, .mbr-footer-content h4,
 .mbr-footer-content p strong, .mbr-footer-content strong, .mbr-footer .mbr-contacts h1, .mbr-footer .mbr-contacts h2, .mbr-footer .mbr-contacts h3, .mbr-footer .mbr-contacts h4,
 .mbr-footer .mbr-contacts p strong, .mbr-footer .mbr-contacts strong {
-  color: #7c7c7c;
+  color: #fff;
   font-family: "Montserrat";
   font-size: 1rem;
   font-weight: 700;
